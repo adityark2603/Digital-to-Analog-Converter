@@ -16,3 +16,5 @@ A 4-bit R-2R Ladder Digital-to-Analog Converter (DAC) is a simple yet efficient 
 4. An op-amp is used as a summing amplifier to produce a stable output and isolate the ladder from the load.
 
    ![image](https://github.com/user-attachments/assets/82be9d12-bd2b-45cd-a568-6ae4018822f8)
+
+## Schematic Specifications 
